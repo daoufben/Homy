@@ -1,0 +1,4 @@
+AuthName "Home control : please login"
+AuthType Basic
+AuthUserFile "/var/www/html/.htpasswd"
+Require valid-user
